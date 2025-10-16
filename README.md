@@ -15,6 +15,7 @@ Este projeto é uma aplicação de terminal desenvolvida em Python para simular 
 
 - **Linguagem:** Python
 - **Banco de Dados:** SQLite
+- **ORM:** SQLAlchemy
 - **Bibliotecas:** sqlite3, os, time
 
 ## 🚀 Como Executar
